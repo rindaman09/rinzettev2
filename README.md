@@ -2,12 +2,12 @@
 ## Beta Multi Device 
 
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJDcHPHsij7anNGZCHUw3xdzpsjSOWm17d_U7rFrXxpoxESk1tEbwJ_Zk&s=10" alt="LEXXY BOT" width="200"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGJDcHPHsij7anNGZCHUw3xdzpsjSOWm17d_U7rFrXxpoxESk1tEbwJ_Zk&s=10" alt="Rinzette BOT" width="200"/>
 
 <p align="center">
     <a href="https://Lexxy24.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Lexxy+Official+🙏"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Devaesthus+🙏"
             alt="YT Lexxy Official"
         />
     </a>
@@ -34,23 +34,16 @@ Click the deploy icon below !
 > pkg install ffmpeg
 > pkg install yarn
 > termux-setup-storage
-> git clone https://github.com/Lexxy24/BOTMD.git
-> cd BOTMD
+> git clone https://github.com/Rindaman09/Rinzettev2.git
+> cd rinzettev2
 > yarn
 > npm start
 ```
 
 ## RDP/VPS USER
 ```bash 
-> git clone https://github.com/Lexxy24/BOTMD.git
+> git clone https://github.com/Rindaman09/Rinzettev2.git
 > cd BOTMD
 > npm install
 > npm start
 ```
-
-# My Sosial
-- [Group Bot Wa 1](https://chat.whatsapp.com/CT5mUKSNRmMB3yuNfjGPso)
-- [Group Bot Wa 2](https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG)
-- [Group Bot Wa 3](https://chat.whatsapp.com/EDYV3OK6wHaDAb6J1iMnUa)
-- [YouTube ](https://youtube.com/c/LEX4YOUU)
-- [Whatsapp ](https://wa.me/6285789004732)
